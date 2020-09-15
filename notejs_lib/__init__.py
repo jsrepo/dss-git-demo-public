@@ -1,1 +1,1 @@
-from .notejs * import *
+from .notejs import *
